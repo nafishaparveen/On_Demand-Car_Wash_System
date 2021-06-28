@@ -1,0 +1,79 @@
+Customer1
+==================
+
+{"_id":{"$oid":"60c4b8308f5da7676e363efa"},
+"name":"Evana Parveen",
+"email":"evana@gmail.com",
+"phoneNo":9547777530,
+"address":{"country":"India","state":"West Bengal","city":"Kolkata","district":"Malda","zipcode":732201},
+"cardetails":{},"_class":"com.javabrains.Customerservice.model.Customer"}
+
+Customer2
+==================
+
+{"_id":{"$oid":"60c4bd65fd1a3610589fd187"},
+"name":"Nafisha Parveen",
+"email":"nafishaparveen248@gmail.com",
+"phoneNo":8116980448,
+"address":{"country":"India","state":"West Bengal","city":"Kolkata","district":"Murshidabaad","zipcode":732202},
+"cardetails":{},"_class":"com.javabrains.Customerservice.model.Customer"}
+
+Washer1
+==================
+
+{"_id":"6788","name":"Shakib Khan",
+"email":"Shakib56@gmail.com",
+"password":"xyz",
+"phone_number":9002624049,
+"wash_request":true,
+"_class":"com.javabrains.Washerservice.model.Washer"}
+
+Washer2
+=================
+
+{"_id":{"$oid":"60c24cdc3668c1028dccde58"},"name":"Sagnik Roy",
+"email":"sagnik@gmail.com",
+"password":"saga#56",
+"phone_number":8116980448,
+"wash_request":true,
+"_class":"com.javabrains.Washerservice.model.Washer"}
+
+WashPackage1
+==================
+
+{"_id":{"$oid":"60c44f77bea2742c95747931"},
+"name":"Silver Package",
+"type":"Economy",
+"price":"500",
+"service":"Basic Wash",
+"_class":"com.javabrains.Packageservice.model.WashPackage"}
+
+WashPackage2
+===================
+
+{"_id":{"$oid":"60c4502cbea2742c95747932"},
+"name":"Gold Package",
+"type":"MidRange",
+"price":"600",
+"service":"Provide exterior wash",
+"_class":"com.javabrains.Packageservice.model.WashPackage"}
+
+WashPackage3
+==================
+
+{"_id":{"$oid":"60c450f9bea2742c95747933"},
+"name":"Platinum Package",
+"type":"Premium",
+"price":"800",
+"service":"Provide exterior and interior wash",
+"_class":"com.javabrains.Packageservice.model.WashPackage"}
+
+Admin
+==============
+
+{"_id":{"$oid":"60c627404dc0b8745f3ec275"},
+"admin_email":"irteza24@gmail.com",
+"admin_password":"teza890","_class":"com.javabrains.Adminservice.model.Admin"}
+
+
+
